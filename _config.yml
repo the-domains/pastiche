@@ -1,0 +1,14 @@
+layout_spectrum: 0.36398966144770384
+typography_spectrum: 0.8373818949330598
+color:
+  brandStrength: 0.914166855160147
+  lightness: 0.4279341781511903
+  saturation: 0.8787937122397125
+  rhythmicContrast: 0.596489324234426
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Pastiche
