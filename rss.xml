@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pastiche]]></title>
+        <description><![CDATA[Pastiche]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jul 2016 04:52:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d135250d-cbd6-44cf-aef9-7d7fe0e7d948.jpg">]]></description>
+            <link>undefinedpastiche-te-copa/index.html</link>
+            <guid isPermaLink="false">3669c78c-e79e-4316-8d60-fc76ddb34aa6</guid>
+            <pubDate>Thu, 28 Jul 2016 04:52:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
